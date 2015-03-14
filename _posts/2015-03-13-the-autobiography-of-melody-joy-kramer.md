@@ -18,7 +18,7 @@ Let's start with the easiest and work our way up.
 
 7. When was I likely commuting? (Twitter data - when was I not posting, correlated with Metro data)
 
-8. Was I where I said I was? (Instagram EXIF Location endpoint data - related: [this AP story](www.washingtonpost.com/politics/lawmaker-with-lavish-decor-billed-private-planes-concerts/2015/02/23/c7754d72-bbac-11e4-bdfa-b8e8f594e6ee_story.html)) 
+8. Was I where I said I was? (Instagram EXIF Location endpoint data - related: [this AP story](www.washingtonpost.com/politics/lawmaker-with-lavish-decor-billed-private-planes-concerts/2015/02/23/c7754d72-bbac-11e4-bdfa-b8e8f594e6ee_story.html)) (http://discoveralibi.com/) [short review here: http://bit.ly/1BD0EpD]
 
 9. Was I on a job interview or giving a speech? (Twitter data: did lots of people from the same company follow me at once?) (Did I have an Out of Office message up?)
 
